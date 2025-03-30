@@ -1,0 +1,15 @@
+mechanic_shop/
+├── app/
+│   ├── __init__.py
+│   ├── auth.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── routes/
+│   │   ├── __init__.py
+│   │   ├── customer_routes.py
+│   │   ├── car_routes.py
+│   │   ├── mechanic_routes.py
+│   │   ├── service_ticket_routes.py
+│   │   └── service_assignment_routes.py
+├── config.py
+├── run.py
